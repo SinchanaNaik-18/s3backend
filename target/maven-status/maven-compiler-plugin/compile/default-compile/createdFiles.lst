@@ -1,0 +1,10 @@
+com\eventsphere\service\S3StorageService.class
+com\eventsphere\dto\ErrorResponse.class
+com\eventsphere\config\AwsS3Config.class
+com\eventsphere\EventsphereApplication.class
+com\eventsphere\service\S3StorageService$S3FileResult.class
+com\eventsphere\exception\ResourceNotFoundException.class
+com\eventsphere\dto\UploadResponse.class
+com\eventsphere\exception\GlobalExceptionHandler.class
+com\eventsphere\controller\FileController.class
+com\eventsphere\config\WebCorsConfig.class
